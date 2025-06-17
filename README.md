@@ -8,7 +8,7 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 ---
 
 🌱 I’m currently learning **Model Deployment & Advanced ML Techniques**  
-📫 Reach me at: [nurfadilah@example.com](mailto:nurfadilahti21a2@gmail.com)
+📫 Reach me at: [nurfadilahti21a2@gmail.com](mailto:nurfadilahti21a2@gmail.com)
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nurfadilah-ti21/))
