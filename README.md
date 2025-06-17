@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D6D&width=435&lines=Hi+I'm+Nurfadilah!;Welcome+to+my+GitHub+profile+👩‍💻;Machine+Learning+%7C+Web+Dev+%7C+Data+Science" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Nurfadilah</h1>
 
 
 <p align="center">
@@ -38,14 +38,6 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=smithdilah&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithdilah&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smithdilah/smithdilah/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 ---
