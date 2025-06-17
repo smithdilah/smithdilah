@@ -7,10 +7,10 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 ---
 
 🌱 I’m currently learning **Model Deployment & Advanced ML Techniques**  
-📫 Reach me at: [nurfadilah@example.com](mailto:nurfadilah@example.com)
+📫 Reach me at: [nurfadilah@example.com](mailto:nurfadilahti21a2@gmail.com)
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nurfadilah-ti21/))
 
 ---
 
@@ -18,12 +18,14 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="40" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="Streamlit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="40" alt="Kaggle" />
 </p>
 
 ---
@@ -37,10 +39,10 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 
 ---
 
-### 🏆 GitHub Trophy
+### 🐍 GitHub Contribution Snake Game
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smithdilah&theme=dracula&no-bg=true&no-frame=true" />
+  <img src="https://raw.githubusercontent.com/smithdilah/smithdilah/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 ---
