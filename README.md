@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nurfadilah</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D6D&width=435&lines=Hi+I'm+Nurfadilah!;Welcome+to+my+GitHub+profile+👩‍💻;Machine+Learning+%7C+Web+Dev+%7C+Data+Science" alt="Typing SVG" />
+
 
 <p align="center">
 A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <strong>Web Development</strong>, and <strong>Data Analysis</strong>.
