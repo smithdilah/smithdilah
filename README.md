@@ -15,8 +15,6 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 
 ---
 
-### 🧰 Languages and Tools
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -41,18 +39,20 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="60" height="60"/>
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-color.png" alt="Streamlit" width="100" height="40"/>
   </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="90" height="30"/>
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="30" height="40"/>
   </a>
 </p>
+
+
 
 
 ---
