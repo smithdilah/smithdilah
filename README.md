@@ -29,6 +29,7 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="60" alt="Kaggle" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="60" alt="Notion" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="60" alt="Figma" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png)" height="60" alt="Google Colab" />
 </p>
 
 ---
