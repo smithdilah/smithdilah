@@ -70,6 +70,7 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
 ### 💡 Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "The best error message is the one that never shows up."  — Thomas Fuchs
 
 
 <!--horizontal divider(gradiant)-->
