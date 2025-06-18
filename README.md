@@ -29,7 +29,7 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="60" alt="Kaggle" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="60" alt="Notion" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="60" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/dagsHub/branding/main/logos/dagshub_logo_black_text.svg" height="40" alt="DagsHub" />
+  <img src="https://dagsunbucket.s3.eu-west-1.amazonaws.com/dagshub_logo_black_text.png" height="40" alt="DagsHub" />
 </p>
 
 ---
