@@ -80,11 +80,4 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </div>
 
-<!-- Horizontal Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="gradient divider"/>
-
-<!-- Bird Animation Trail (SVG like Snake) -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/smithdilah/assets/main/bird-path.svg" alt="flying bird animation"/>
-</div>
 
