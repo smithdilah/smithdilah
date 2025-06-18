@@ -25,11 +25,10 @@ A tech enthusiast who loves to explore <strong>Machine Learning</strong>, <stron
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter Notebook" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="80" alt="Streamlit" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="70" alt="Streamlit" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="60" alt="Kaggle" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="60" alt="Notion" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="60" alt="Figma" />
-  <img src="https://dagsunbucket.s3.eu-west-1.amazonaws.com/dagshub_logo_white_text.png" height="40" alt="DagsHub" />
 </p>
 
 ---
